@@ -1,0 +1,12 @@
+.custom-nav {
+    background-color: #007bff; 
+    color: #ffffff; 
+  }
+  
+  .custom-nav .nav-link {
+    color: #ffffff; 
+  }
+  
+  .custom-nav .nav-link:hover {
+    color: #ffffff; 
+  }
